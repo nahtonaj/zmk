@@ -25,6 +25,6 @@
             label = "SUSPEND";
             type = <RST_SUSPEND>;
             #binding-cells = <0>;
-	 };
+        };
     };
 };
